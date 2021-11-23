@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522688402 source:e:\lovely uneveristy\cprogram\ubafriendfile\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<ctype.h>
+	<conio.h>
+	<cstring>
+
